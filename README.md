@@ -7,7 +7,7 @@ Cada libro debe tener un botón que permita añadirlo a la lista de lectura, el 
 
 También hay que incluir un sistema de filtrado por categoría de los libros.
 
-La prueba técnica ha sido resuelta usando el framework **[ViteJS]([https://vitejs.dev/)**, usando además **[React](https://es.react.dev/)** y **[TailwindCSS](https://tailwindcss.com/)**.
+La prueba técnica ha sido resuelta usando el framework **[ViteJS](https://vitejs.dev/)**, usando además **[React](https://es.react.dev/)** y **[TailwindCSS](https://tailwindcss.com/)**.
 
 ---
 
