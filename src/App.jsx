@@ -14,7 +14,7 @@ function App() {
 			</h1>
 			
 			<section>
-				<h2 className="text-3xl font-semibold flex justify-start align-start pl-8">{numberOfBooks} libros disponibles</h2>
+				<h2 className="text-3xl font-semibold flex justify-center items-center sm:justify-start sm:align-start sm:pl-8">{numberOfBooks} libros disponibles</h2>
 				<Library setNumberOfBooks={setNumberOfBooks} />
 			</section>
 
