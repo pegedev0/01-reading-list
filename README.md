@@ -12,7 +12,7 @@ La prueba técnica ha sido resuelta usando el framework **[ViteJS](https://vitej
 ---
 
 ### Web del proyecto
-[bazar-universal-pegedev0](https://65eccbb1c5414fe931d2ee6d--gilded-rabanadas-c4e544.netlify.app/)
+[reading-list-pegedev0](https://65eccbb1c5414fe931d2ee6d--gilded-rabanadas-c4e544.netlify.app/)
 
 ---
 
