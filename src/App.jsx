@@ -7,9 +7,9 @@ function App() {
 	const [ numberOfBooks, setNumberOfBooks ] = useState(library.length);
 
 	return (
-		<main className="flex flex-col gap-20 py-10 px-20">	
+		<main className="flex flex-col gap-20 py-10 px-14 sm:px-20">	
 
-			<h1 className="text-3xl sm:text-4xl font-bold tracking-tight flex justify-center items-center">
+			<h1 className="text-2xl sm:text-4xl font-bold tracking-tight flex justify-center items-center">
 				📘 Lista de lectura 📘
 			</h1>
 			
